@@ -6,9 +6,9 @@ public class Class1
 	{
         void Print1()
         {
-                
+              Console.WriteLine("Hello");  
         }
 
-		Console.WriteLine("Hello");
+		
 	}
 }
